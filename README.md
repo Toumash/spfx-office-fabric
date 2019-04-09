@@ -11,7 +11,7 @@ npm install -g @microsoft/generator-sharepoint
 ```
 2. Install Office UI Fabric
 ```shell
-npm install office-ui-frabric-react
+npm install office-ui-fabric-react
 ```
 3. In package.json change **@microsoft/rush-stack-compiler-2.7** into:
 ```
