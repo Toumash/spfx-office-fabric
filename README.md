@@ -15,7 +15,7 @@ npm install office-ui-fabric-react
 ```
 3. In package.json change **@microsoft/rush-stack-compiler-2.7** into:
 ```
-@microsoft/rush-stack-compiler-3.0": "0.5.9"
+"@microsoft/rush-stack-compiler-3.0": "0.5.9"
 ```
 4. And then in tslint.config
 ```
