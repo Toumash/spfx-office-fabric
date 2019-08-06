@@ -19,7 +19,7 @@ npm install office-ui-fabric-react
 ```
 4. And then in tslint.config
 ```
-"extends": "./node_modules/@microsoft/rush-stack-compiler-3.0/includes/tsconfig-web.json
+"extends": "./node_modules/@microsoft/rush-stack-compiler-3.0/includes/tsconfig-web.json"
 ```
 5. Fabric components should work just fine!
 
